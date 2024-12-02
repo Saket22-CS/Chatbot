@@ -101,7 +101,7 @@ def main():
                 st.text(f"Timestamp: {row[2]}")
                 st.markdown("---")
 
-    elif choice == "About This Project":
+    elif choice == "About":
         st.write("Welcome to the Chatbot Project, a demonstration of leveraging Natural Language Processing (NLP) and Machine Learning to create an intelligent conversational agent. This chatbot is designed to understand and respond to user inputs based on predefined intents, offering a dynamic and user-friendly experience through a web-based interface built with Streamlit.")
 
         st.subheader("Project Overview:")
