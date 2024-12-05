@@ -61,12 +61,19 @@ View a chronological log of all chats, including:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the chatbot:
+3. Download NLTK Data
+   ```python
+   import nltk
+   nltk.download('punkt')
+   ```
+4. Run the chatbot:
    ```bash
    streamlit run chatbot.py
    ```
-4. Open the provided URL in your browser to start chatting with **AlphaAI**.
-
+5. Open the provided URL in your browser to start chatting with **AlphaAI**.
+   ```bash
+   https://chatbot-vje3p3qjvowj5iuhbaaedh.streamlit.app/#alphaai
+   ```
 ---
 
 ## **Project Structure**
@@ -85,6 +92,13 @@ View a chronological log of all chats, including:
 1. Launch the chatbot and type your queries in the text box.
 2. Check the **Conversation History** menu for previous interactions.
 3. Explore the **About** section to understand the technical architecture.
+
+---
+
+## **Acknowledgments**
+- **NLTK** for natural language processing.
+- **Scikit-learn** for machine learning algorithms.
+- **Streamlit** for building the web interface.
 
 ---
 
