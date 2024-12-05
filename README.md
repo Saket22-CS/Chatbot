@@ -109,4 +109,4 @@ Feel free to submit a pull request or open an issue if you’d like to add new f
 
 ## **Contact**
 Created by **Saket Chaudhary**  
-For inquiries or feedback, contact me on [GitHub](https://github.com/Saket22-CS).
+For inquiries or feedback, contact me on [Linkedin](https://www.linkedin.com/in/saket-chaudhary22/).
